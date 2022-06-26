@@ -1,2 +1,5 @@
 
-JKBottomSearchView.xcodeproj/xcuserdata/Jaro.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+JKBottomSearchView.xcodeproj/xcuserdata/*
+JKBottomSearchView.xcodeproj/project.xcworkspace/xcuserdata/*
+.swiftpm/xcode/package.xcworkspace/xcuserdata/*
+.swiftpm/xcode/xcuserdata/*
