@@ -65,7 +65,7 @@ public class JKBottomSearchView: UIView{
         get{return searchBar.barStyle}
         set{searchBar.barStyle = newValue}
     }
-    public var searchBarStyle:UISearchBarStyle {
+    public var searchBarStyle:UISearchBar.Style {
         get{ return searchBar.searchBarStyle}
         set{ searchBar.searchBarStyle = newValue}
     }
