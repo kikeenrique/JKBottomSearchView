@@ -54,11 +54,19 @@
 		4AB17755207EB3DC00649B1A /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				4A693B8D2077E14100B4FE37 /* JKBottomSearchView.h */,
+				C08345BA2868A6FA0046B2C6 /* JKBottomSearchView */,
 				4A693B8E2077E14100B4FE37 /* Info.plist */,
-				4A693BA42077E18E00B4FE37 /* JKBottomSearchView.swift */,
 			);
 			path = Sources;
+			sourceTree = "<group>";
+		};
+		C08345BA2868A6FA0046B2C6 /* JKBottomSearchView */ = {
+			isa = PBXGroup;
+			children = (
+				4A693B8D2077E14100B4FE37 /* JKBottomSearchView.h */,
+				4A693BA42077E18E00B4FE37 /* JKBottomSearchView.swift */,
+			);
+			path = JKBottomSearchView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
