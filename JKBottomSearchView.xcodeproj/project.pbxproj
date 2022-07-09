@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4A693B9B2077E14100B4FE37 /* JKBottomSearchView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A693B8D2077E14100B4FE37 /* JKBottomSearchView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4A693BA52077E18E00B4FE37 /* JKBottomSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A693BA42077E18E00B4FE37 /* JKBottomSearchView.swift */; };
 		4AA9AE0D207D375400829896 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4AA9AE0C207D375400829896 /* README.md */; };
 		4AA9AE0F207D376100829896 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 4AA9AE0E207D376100829896 /* LICENSE.md */; };
@@ -15,7 +14,6 @@
 
 /* Begin PBXFileReference section */
 		4A693B8A2077E14100B4FE37 /* JKBottomSearchView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JKBottomSearchView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4A693B8D2077E14100B4FE37 /* JKBottomSearchView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JKBottomSearchView.h; sourceTree = "<group>"; };
 		4A693B8E2077E14100B4FE37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A693BA42077E18E00B4FE37 /* JKBottomSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JKBottomSearchView.swift; sourceTree = "<group>"; };
 		4AA9AE0C207D375400829896 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 		C08345BA2868A6FA0046B2C6 /* JKBottomSearchView */ = {
 			isa = PBXGroup;
 			children = (
-				4A693B8D2077E14100B4FE37 /* JKBottomSearchView.h */,
 				4A693BA42077E18E00B4FE37 /* JKBottomSearchView.swift */,
 			);
 			path = JKBottomSearchView;
@@ -76,7 +73,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A693B9B2077E14100B4FE37 /* JKBottomSearchView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
