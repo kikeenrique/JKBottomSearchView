@@ -8,6 +8,13 @@
 <img src="https://github.com/JaroVoltix/JKBottomSearchView/blob/master/assets/MiddleExpanded.png" width="150" height="266" title="MiddleExpanded">
 </p>
 
+## Update from iOS 15
+
+Since iOS 15.0 apple provides a UISheetPresentationController that provides same features that this project.
+You can check out WWDC21 video session in: [Customize and resize sheets in UIKit](https://developer.apple.com/videos/play/wwdc2021/10063/)
+Also, you can check out code example in: [Customizing and resizing sheets in UIKit](https://developer.apple.com/documentation/uikit/uiviewcontroller/customizing_and_resizing_sheets_in_uikit)
+
+
 ## Installation
 
 ### Cocapods
